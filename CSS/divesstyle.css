@@ -1,0 +1,29 @@
+.cars{
+   background-color: #5ce35c;
+    padding: 25px;
+    margin: 21px;
+    text-align: center;
+}
+
+.fruits{
+    background-color: aquamarine;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+.clothes {
+    background-color: aquamarine;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+.cars:hover{
+    background-color: white;
+
+}
+.clothes:hover{
+    background-color: white;
+}
+.fruits:hover{
+    background-color: white;
+}
